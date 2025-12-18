@@ -1,0 +1,196 @@
+,NTA2020,airbnb_per_10k,NTAName,neighborhood_group_cleansed
+0,BK0101,167.78,Greenpoint,Brooklyn
+1,BK0102,222.05,Williamsburg,Brooklyn
+2,BK0103,10.06,South Williamsburg,Brooklyn
+3,BK0104,203.97,East Williamsburg,Brooklyn
+4,BK0201,50.22,Brooklyn Heights,Brooklyn
+5,BK0202,75.67,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn
+6,BK0203,101.1,Fort Greene,Brooklyn
+7,BK0204,166.51,Clinton Hill,Brooklyn
+8,BK0301,159.21,Bedford-Stuyvesant (West),Brooklyn
+9,BK0302,180.5,Bedford-Stuyvesant (East),Brooklyn
+10,BK0401,151.3,Bushwick (West),Brooklyn
+11,BK0402,152.78,Bushwick (East),Brooklyn
+12,BK0501,37.22,Cypress Hills,Brooklyn
+13,BK0502,39.24,East New York (North),Brooklyn
+14,BK0503,26.04,East New York-New Lots,Brooklyn
+15,BK0504,5.28,Spring Creek-Starrett City,Brooklyn
+16,BK0505,15.58,East New York-City Line,Brooklyn
+17,BK0601,78.76,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn
+18,BK0602,79.96,Park Slope,Brooklyn
+19,BK0701,69.0,Windsor Terrace-South Slope,Brooklyn
+20,BK0702,45.34,Sunset Park (West),Brooklyn
+21,BK0703,17.62,Sunset Park (Central),Brooklyn
+22,BK0801,118.65,Prospect Heights,Brooklyn
+23,BK0802,126.41,Crown Heights (North),Brooklyn
+24,BK0901,56.73,Crown Heights (South),Brooklyn
+25,BK0902,99.97,Prospect Lefferts Gardens-Wingate,Brooklyn
+26,BK1001,32.04,Bay Ridge,Brooklyn
+27,BK1002,4.06,Dyker Heights,Brooklyn
+28,BK1101,7.24,Bensonhurst,Brooklyn
+29,BK1102,8.47,Bath Beach,Brooklyn
+30,BK1103,9.09,Gravesend (West),Brooklyn
+31,BK1201,14.59,Sunset Park (East)-Borough Park (West),Brooklyn
+32,BK1202,2.13,Borough Park,Brooklyn
+33,BK1203,28.74,Kensington,Brooklyn
+34,BK1204,3.32,Mapleton-Midwood (West),Brooklyn
+35,BK1301,5.93,Gravesend (South),Brooklyn
+36,BK1302,11.31,Coney Island-Sea Gate,Brooklyn
+37,BK1303,18.17,Brighton Beach,Brooklyn
+38,BK1401,49.02,Flatbush,Brooklyn
+39,BK1402,45.8,Flatbush (West)-Ditmas Park-Parkville,Brooklyn
+40,BK1403,14.37,Midwood,Brooklyn
+41,BK1501,10.61,Gravesend (East)-Homecrest,Brooklyn
+42,BK1502,11.58,Madison,Brooklyn
+43,BK1503,13.75,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn
+44,BK1601,104.08,Ocean Hill,Brooklyn
+45,BK1602,15.21,Brownsville,Brooklyn
+46,BK1701,63.75,East Flatbush-Erasmus,Brooklyn
+47,BK1702,25.93,East Flatbush-Farragut,Brooklyn
+48,BK1703,35.31,East Flatbush-Rugby,Brooklyn
+49,BK1704,27.61,East Flatbush-Remsen Village,Brooklyn
+50,BK1801,19.38,Flatlands,Brooklyn
+51,BK1802,8.09,Marine Park-Mill Basin-Bergen Beach,Brooklyn
+52,BK1803,28.58,Canarsie,Brooklyn
+53,BX0101,22.35,Mott Haven-Port Morris,Bronx
+54,BX0102,9.61,Melrose,Bronx
+55,BX0201,20.49,Hunts Point,Bronx
+56,BX0202,6.7,Longwood,Bronx
+57,BX0301,7.98,Morrisania,Bronx
+58,BX0302,4.89,Claremont Village-Claremont (East),Bronx
+59,BX0303,5.31,Crotona Park East,Bronx
+60,BX0401,11.67,Concourse-Concourse Village,Bronx
+61,BX0402,8.32,Highbridge,Bronx
+62,BX0403,10.47,Mount Eden-Claremont (West),Bronx
+63,BX0501,5.3,University Heights (South)-Morris Heights,Bronx
+64,BX0502,10.39,Mount Hope,Bronx
+65,BX0503,5.61,Fordham Heights,Bronx
+66,BX0601,2.48,West Farms,Bronx
+67,BX0602,6.22,Tremont,Bronx
+68,BX0603,11.72,Belmont,Bronx
+69,BX0701,6.45,University Heights (North)-Fordham,Bronx
+70,BX0702,7.92,Bedford Park,Bronx
+71,BX0703,6.9,Norwood,Bronx
+72,BX0801,8.39,Kingsbridge Heights-Van Cortlandt Village,Bronx
+73,BX0802,11.84,Kingsbridge-Marble Hill,Manhattan
+74,BX0803,8.55,Riverdale-Spuyten Duyvil,Bronx
+75,BX0901,4.57,Soundview-Bruckner-Bronx River,Bronx
+76,BX0902,12.07,Soundview-Clason Point,Bronx
+77,BX0903,5.55,Castle Hill-Unionport,Bronx
+78,BX0904,4.46,Parkchester,Bronx
+79,BX1001,4.03,Westchester Square,Bronx
+80,BX1002,13.09,Throgs Neck-Schuylerville,Bronx
+81,BX1003,11.2,Pelham Bay-Country Club-City Island,Bronx
+82,BX1004,2.14,Co-op City,Bronx
+83,BX1101,11.1,Pelham Parkway-Van Nest,Bronx
+84,BX1102,15.95,Morris Park,Bronx
+85,BX1103,20.41,Pelham Gardens,Bronx
+86,BX1104,8.66,Allerton,Bronx
+87,BX1201,12.71,Williamsbridge-Olinville,Bronx
+88,BX1202,15.85,Eastchester-Edenwald-Baychester,Bronx
+89,BX1203,15.95,Wakefield-Woodlawn,Bronx
+90,MN0101,165.87,Financial District-Battery Park City,Manhattan
+91,MN0102,113.04,Tribeca-Civic Center,Manhattan
+92,MN0201,327.22,SoHo-Little Italy-Hudson Square,Manhattan
+93,MN0202,100.16,Greenwich Village,Manhattan
+94,MN0203,159.38,West Village,Manhattan
+95,MN0301,101.04,Chinatown-Two Bridges,Manhattan
+96,MN0303,174.14,East Village,Manhattan
+97,MN0401,174.65,Chelsea-Hudson Yards,Manhattan
+98,MN0402,285.43,Hell's Kitchen,Manhattan
+99,MN0501,282.41,Midtown South-Flatiron-Union Square,Manhattan
+100,MN0502,607.23,Midtown-Times Square,Manhattan
+101,MN0601,31.09,Stuyvesant Town-Peter Cooper Village,Manhattan
+102,MN0602,144.61,Gramercy,Manhattan
+103,MN0603,153.34,Murray Hill-Kips Bay,Manhattan
+104,MN0604,183.11,East Midtown-Turtle Bay,Manhattan
+105,MN0701,49.37,Upper West Side-Lincoln Square,Manhattan
+106,MN0702,89.13,Upper West Side (Central),Manhattan
+107,MN0703,136.81,Upper West Side-Manhattan Valley,Manhattan
+108,MN0801,93.65,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan
+109,MN0802,56.88,Upper East Side-Carnegie Hill,Manhattan
+110,MN0803,84.72,Upper East Side-Yorkville,Manhattan
+111,MN0901,70.76,Morningside Heights,Manhattan
+112,MN0902,76.18,Manhattanville-West Harlem,Manhattan
+113,MN0903,101.8,Hamilton Heights-Sugar Hill,Manhattan
+114,MN1001,147.52,Harlem (South),Manhattan
+115,MN1002,90.73,Harlem (North),Manhattan
+116,MN1101,79.75,East Harlem (South),Manhattan
+117,MN1102,66.04,East Harlem (North),Manhattan
+118,MN1201,47.61,Washington Heights (South),Manhattan
+119,MN1202,41.76,Washington Heights (North),Manhattan
+120,MN1203,31.96,Inwood,Manhattan
+121,QN0101,47.78,Astoria (North)-Ditmars-Steinway,Queens
+122,QN0102,51.25,Old Astoria-Hallets Point,Queens
+123,QN0103,80.24,Astoria (Central),Queens
+124,QN0104,63.35,Astoria (East)-Woodside (North),Queens
+125,QN0105,64.64,Queensbridge-Ravenswood-Dutch Kills,Queens
+126,QN0201,68.29,Long Island City-Hunters Point,Queens
+127,QN0202,64.46,Sunnyside,Queens
+128,QN0203,80.09,Woodside,Queens
+129,QN0301,28.47,Jackson Heights,Queens
+130,QN0302,41.4,East Elmhurst,Queens
+131,QN0303,7.6,North Corona,Queens
+132,QN0401,34.49,Elmhurst,Queens
+133,QN0402,10.3,Corona,Queens
+134,QN0501,15.03,Maspeth,Queens
+135,QN0502,64.76,Ridgewood,Queens
+136,QN0503,19.64,Glendale,Queens
+137,QN0504,19.14,Middle Village,Queens
+138,QN0601,14.31,Rego Park,Queens
+139,QN0602,17.31,Forest Hills,Queens
+140,QN0701,16.95,College Point,Queens
+141,QN0702,5.63,Whitestone-Beechhurst,Queens
+142,QN0703,2.58,Bay Terrace-Clearview,Queens
+143,QN0704,14.29,Murray Hill-Broadway Flushing,Queens
+144,QN0705,29.39,East Flushing,Queens
+145,QN0706,45.69,Queensboro Hill,Queens
+146,QN0707,33.49,Flushing-Willets Point,Queens
+147,QN0801,8.33,Kew Gardens Hills,Queens
+148,QN0802,18.22,Pomonok-Electchester-Hillcrest,Queens
+149,QN0803,9.39,Fresh Meadows-Utopia,Queens
+150,QN0804,9.76,Jamaica Estates-Holliswood,Queens
+151,QN0805,15.52,Jamaica Hills-Briarwood,Queens
+152,QN0901,19.29,Kew Gardens,Queens
+153,QN0902,20.53,Richmond Hill,Queens
+154,QN0903,5.8,South Richmond Hill,Queens
+155,QN0904,13.55,Ozone Park (North),Queens
+156,QN0905,27.65,Woodhaven,Queens
+157,QN1001,10.69,South Ozone Park,Queens
+158,QN1002,19.13,Ozone Park,Queens
+159,QN1003,18.67,Howard Beach-Lindenwood,Queens
+160,QN1101,8.84,Auburndale,Queens
+161,QN1102,14.05,Bayside,Queens
+162,QN1103,3.56,Douglaston-Little Neck,Queens
+163,QN1104,2.38,Oakland Gardens-Hollis Hills,Queens
+164,QN1201,11.31,Jamaica,Queens
+165,QN1202,14.64,South Jamaica,Queens
+166,QN1203,31.1,Baisley Park,Queens
+167,QN1204,31.02,Springfield Gardens (North)-Rochdale Village,Queens
+168,QN1205,34.74,St. Albans,Queens
+169,QN1206,16.28,Hollis,Queens
+170,QN1302,7.15,Bellerose,Queens
+171,QN1303,18.58,Queens Village,Queens
+172,QN1304,37.73,Cambria Heights,Queens
+173,QN1305,29.52,Laurelton,Queens
+174,QN1306,48.91,Springfield Gardens (South)-Brookville,Queens
+175,QN1307,38.74,Rosedale,Queens
+176,QN1401,15.35,Far Rockaway-Bayswater,Queens
+177,QN1402,42.79,Rockaway Beach-Arverne-Edgemere,Queens
+178,QN1403,4.56,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens
+179,SI0101,29.2,St. George-New Brighton,Staten Island
+180,SI0102,24.7,Tompkinsville-Stapleton-Clifton-Fox Hills,Staten Island
+181,SI0103,7.84,Rosebank-Shore Acres-Park Hill,Staten Island
+182,SI0104,21.35,West New Brighton-Silver Lake-Grymes Hill,Staten Island
+183,SI0105,4.77,Westerleigh-Castleton Corners,Staten Island
+184,SI0106,9.73,Port Richmond,Staten Island
+185,SI0107,11.94,Mariner's Harbor-Arlington-Graniteville,Staten Island
+186,SI0201,9.1,Grasmere-Arrochar-South Beach-Dongan Hills,Staten Island
+187,SI0202,13.07,New Dorp-Midland Beach,Staten Island
+188,SI0203,5.79,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,Staten Island
+189,SI0204,3.27,New Springville-Willowbrook-Bulls Head-Travis,Staten Island
+190,SI0301,2.68,Oakwood-Richmondtown,Staten Island
+191,SI0302,3.29,Great Kills-Eltingville,Staten Island
+192,SI0303,0.98,Arden Heights-Rossville,Staten Island
+193,SI0304,3.21,Annadale-Huguenot-Prince's Bay-Woodrow,Staten Island
+194,SI0305,3.11,Tottenville-Charleston,Staten Island
