@@ -81,7 +81,6 @@ The interactive dashboard is designed for exploration rather than prediction, al
 
 ### Layer 6: Airbnb, Evictions & Crime (Neighborhood Conditions)
 * **Visualization:** Scatter plots and ZIP-level choropleths comparing Airbnb density with eviction filings and crime reports.
-* **Trendlines:** OLS regression lines summarize overall associations.
 * **Insight:** Explores whether higher Airbnb activity aligns with increased housing instability or public safety indicators.
 
 ### Layer 7: Clustering & Pattern Detection
