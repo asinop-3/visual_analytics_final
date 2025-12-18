@@ -9,6 +9,7 @@ transit_layout = html.Div([
         dcc.Dropdown(
             id='transit-room-filter',
             value='ALL',
+            options=[{"label": "Compare All Categories", "value": "ALL"}],
             clearable=False,
             style={'width': '50%'}
         )
