@@ -4,15 +4,6 @@
 
 **Tech Stack:** Python, Pandas, GeoPandas, Scikit-learn, Shapely, Plotly, Dash
 
-## Authors
-
-Fatima Nasyr  
-Feriha Ozturk  
-Anthony Sinopoli  
-Tahir Zogaj  
-
-*Listed alphabetically*
-
 ## 1. Overview: Domain
 This project investigates how short-term rental activity (Airbnb) interacts with urban infrastructure, housing pressure, and neighborhood conditions across New York City. In a city where tourism, public transit, housing affordability, and population density are tightly interconnected, this analysis explores how Airbnb listings relate to transit accessibility, eviction activity, crime reports, residential population patterns, and affordable housing development.
 
@@ -109,3 +100,11 @@ The interactive dashboard is designed for exploration rather than prediction, al
 * **Temporal Scope:** The analysis reflects snapshots in time and does not fully capture seasonal or long-term trends.
 * **Future Work:** Could incorporate network-based walking distances, time-series analysis, zoning and policy overlays, or additional socioeconomic variables to deepen interpretation.
 
+## Authors
+
+Fatima Nasyr  
+Feriha Ozturk  
+Anthony Sinopoli  
+Tahir Zogaj  
+
+*Listed alphabetically*
